@@ -2,7 +2,6 @@
 
 <h3 align="center">Sophomore at IIIT-A with a flair for frontend development and a fascination for the world of Machine Learning. Currently honing my skills to create seamless user experiences through elegant and responsive web design. My journey involves blending creativity with technology to build innovative solutions. Excited about the endless possibilities at the intersection of design and intelligence. 💻✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shauryajain03&label=Profile%20views&color=0e75b6&style=flat" alt="shauryajain03" /> </p>
 
 - 🔭 I’m currently working on **my portfolio**
 
