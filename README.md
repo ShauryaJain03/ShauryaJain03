@@ -3,7 +3,7 @@
 Sophomore at IIIT-A with a flair for frontend development and a fascination for the world of Machine Learning. Currently honing my skills to create seamless user experiences through elegant and responsive web design. My journey involves blending creativity with technology to build innovative solutions. Excited about the endless possibilities at the intersection of design and intelligence. 💻✨
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/shaurya--jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya--jain" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sjaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sjaini" height="30" width="40" /></a>
