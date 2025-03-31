@@ -13,7 +13,6 @@
 <a href="https://stackoverflow.com/users/sjaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sjaini" height="30" width="40" /></a>
 <a href="https://codesandbox.com/jainsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jainsj" height="30" width="40" /></a>
 <a href="https://kaggle.com/shauryajain03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shauryajain03" height="30" width="40" /></a>
-<a href="https://instagram.com/_jaini_shaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jaini_shaurya" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
