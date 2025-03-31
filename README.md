@@ -1,8 +1,8 @@
 <h1 align="center">Hi there👋, I'm Shaurya Jain</h1>
 
-<h3 align="center">Sophomore at IIIT-A with a flair for web development and a fascination for the world of Machine Learning. Currently honing my skills to create seamless user experiences through elegant and responsive web design</h3>
+<h3 align="center">Senior at IIIT-A with a flair for Robotics and RL</h3>
 
-<h4>- 👯 I’m looking to collaborate on open source projects</h4>
+<h4>- 👯 I’m looking to collaborate on open source projects in Robotics and ML</h4>
 
 <h4>- 📫 Reach me at jainshaurya.sj@gmail.com</h4>
 
