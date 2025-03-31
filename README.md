@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Shaurya Jain</h1>
 
-<h3 align="center">Senior at IIIT-A with a flair for Robotics and RL</h3>
+<h3 align="center">Senior at IIIT-A with a flair for Mobile Robotics, Autonomous Vehicles and Reinforcement Learning</h3>
 
 <h4>- 👯 I’m looking to collaborate on open source projects in Robotics and ML</h4>
 
