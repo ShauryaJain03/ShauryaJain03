@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Shaurya Jain</h1>
 
-<h3 align="center">Pre Final Year Student at IIIT-A with a flair for Mobile Robotics, Autonomous Vehicles and currently working as an undergraduate researcher at the Center of Intelligent Robotics, IIIT Allahabad</h3>
+<h3 align="center">Final Year Student at IIIT-A interested in Mobile Robotics, Autonomous Vehicle research, currently working as an undergraduate researcher at the Center of Intelligent Robotics, IIIT Allahabad</h3>
 <h4>- 👯 I’m looking to collaborate on open source projects in Robotics and ML</h4>
 
 <h4>- 📫 Reach me at jainshaurya.sj@gmail.com</h4>
