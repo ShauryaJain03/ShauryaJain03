@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Shaurya Jain</h1>
 
-<h3 align="center">ECE Grad from IIIT Allahabad interested in Mobile Robotics, Autonomous Vehicle research, currently working as a Robotics Software Intern at Ottonomy</h3>
-<h4>- 👯 I’m looking to collaborate on open source projects in ML and Robotics</h4>
+<h3 align="center">ECE Grad from IIIT Allahabad interested in Mobile Robotics, Autonomous Driving - Robotics Software at Ottonomy</h3>
+<h4>- 👯 I’m open to collaborations on Robotics and Autonomous Driving Research</h4>
 
 <h4>- 📫 Reach me at jainshaurya.sj@gmail.com</h4>
 
